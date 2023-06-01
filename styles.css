@@ -1,0 +1,44 @@
+body{
+   background-color: #dfdada;   
+}
+
+h1{
+    text-align: center;
+    background-color: #ffffff;
+   
+}
+
+.card{
+    background-color: white;
+    width: 600px;
+    margin:auto;
+    border: 1px solid rgb(210, 206, 206);
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+   
+}
+
+h2{
+    margin:0;
+}
+.header{
+    padding: 10px;
+    
+}
+
+img{
+    width: 100%;
+}
+
+.date{
+    margin: 0;
+    float:right;
+    margin-top: 6px;
+}
+
+.footer{
+    margin:0;
+    margin-left: 10px;
+    
+}
